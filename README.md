@@ -9,7 +9,7 @@ Clone the repository to your local machine by writing ```git clone https://githu
 We will often work with interactive python (3+) in jupyter notebooks, so please make sure to have installed:
  1. Jupyter ([Install](https://jupyter.org/install));
  2. Common python libraries: ```math```, ```numpy```, ```pandas```, ```matplotlib```, ```scipy```;
- 3. For the first lab, please also install ```pytrends```
+ 3. For the first lab, we will also need ```pytrends```
  
 
-To download lab materials, please use ```git pull``` at the start of each lab.
+To download lab materials, ```git pull``` to synchronize at the start of each lab.
