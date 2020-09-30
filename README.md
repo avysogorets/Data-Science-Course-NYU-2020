@@ -16,3 +16,6 @@ To download lab materials, ```git pull``` to synchronize at the start of each la
 
 ### Lab 2 (09/23):
 Lab2 folder is now availbale. If you want to follow along on your local machine during the lab, please install the following python libraries (in addition to those used last time): ```pytrends```, ```pydotplus```, ```graphviz```, ```matplotlib```, ```scikit-learn```.
+
+### Lab 3 (09/30):
+Lab3 folder is now available. No additional python libraries will be required today. See you in class!
