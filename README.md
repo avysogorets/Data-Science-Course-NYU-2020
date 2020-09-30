@@ -13,3 +13,6 @@ We will often work with interactive python (3+) in jupyter notebooks, so please 
  
 
 To download lab materials, ```git pull``` to synchronize at the start of each lab.
+
+### Lab 2 (09/23):
+Lab2 folder is now availbale. If you want to follow along on your local machine during the lab, please install the following python libraries (in addition to those used last time): ```pytrends```, ```pydotplus```, ```graphviz```, ```matplotlib```, ```scikit-learn```.
