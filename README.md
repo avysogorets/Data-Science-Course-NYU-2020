@@ -23,4 +23,4 @@ Lab3 folder is now available. No additional python libraries will be required to
 ### Lab 4 (10/7):
 Lab4 folder is now available. You should be able to run this notebook without any special libraries. Today we will
  - understand **COMPAS** and ProPublica's defender data;
- - explore the data and assess recidivism predictions of COMPAS.
+ - explore the data and assess recidivism predictions of **COMPAS**.
