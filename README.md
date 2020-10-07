@@ -21,4 +21,5 @@ Lab2 folder is now availbale. If you want to follow along on your local machine 
 Lab3 folder is now available. No additional python libraries will be required today. See you in class!
 
 ### Lab 4 (10/7):
-Lab4 folder is now available. You should be able to run this notebook without any special libraries.
+Lab4 folder is now available. You should be able to run this notebook without any special libraries. Today we will
+[1]
