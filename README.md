@@ -20,7 +20,10 @@ Lab2 folder is now availbale. If you want to follow along on your local machine 
 ### Lab 3 (09/30):
 Lab3 folder is now available. No additional python libraries will be required today. See you in class!
 
-### Lab 4 (10/7):
+### Lab 4 (10/07):
 Lab4 folder is now available. You should be able to run this notebook without any special libraries. Today we will
  - understand **COMPAS** and ProPublica's defendant profiling data;
  - explore the data and assess recidivism predictions produced by **COMPAS**.
+
+### Lab 5 (10/14):
+Lab5 folder is now available. You will need to install ```pandas-profiling``` library to execute the notebook.
