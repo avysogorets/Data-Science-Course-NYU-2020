@@ -30,5 +30,5 @@ Lab5 folder is now available. You will need to install ```pandas-profiling``` li
 
 ### Lab 6 (10/21):
 Lab6 folder is now available. No extra libraries are required. In this lab, we will
-- explore the ```scikit-learn```'s implementation of Support Vector Classifier;
-- revisit the 2106 elections dataset from Lab2 (and Homework 1).
+- explore the ```scikit-learn```'s implementation of the Support Vector Classifier;
+- revisit the 2016 elections dataset from Lab2 (and Homework 1).
