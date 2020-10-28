@@ -32,3 +32,9 @@ Lab5 folder is now available. You will need to install ```pandas-profiling``` li
 Lab6 folder is now available. No extra libraries are required. In this lab, we will
 - explore the ```scikit-learn```'s implementation of the Support Vector Classifier;
 - revisit the 2016 elections dataset from Lab2 (and Homework 1).
+
+### Lab 7 (10/28):
+Lab7 folder is now availbale. In this section, we will:
+- derive the bias-variance trade-off in statistical learning theory; 
+- explore the resulting formula using ```sklearn```'s SVC with RBF kernels;
+- predict the outcome of the upcoming Presidential Elections using the tree model from HW1!
