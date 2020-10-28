@@ -27,3 +27,8 @@ Lab4 folder is now available. You should be able to run this notebook without an
 
 ### Lab 5 (10/14):
 Lab5 folder is now available. You will need to install ```pandas-profiling``` library to execute the notebook.
+
+### Lab 6 (10/21):
+Lab6 folder is now available. No extra libraries are required. In this lab, we will
+- explore the ```scikit-learn```'s implementation of the Support Vector Classifier;
+- revisit the 2016 elections dataset from Lab2 (and Homework 1).
