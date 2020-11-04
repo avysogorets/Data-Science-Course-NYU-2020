@@ -43,4 +43,4 @@ Lab7 folder is now availbale. In this section, we will:
 Lab8 folder is now up! Disclaimer: you will not be able to run the notebook on your local machine this time as it depends on functions you will write in Homework2 (hidden on my computer in a different folder). I will upload these files after the due date. Today, we will talk about multiclass classification; in particular,
 - combine binary classifiers in a multiclass setting (*one-vs-one, one-vs-all*);
 - discuss evluation metrics for multiclass models;
-- extend to ROC space to handle non-binary scenarios.
+- extend the ROC space to handle non-binary scenarios.
