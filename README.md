@@ -38,3 +38,9 @@ Lab7 folder is now availbale. In this section, we will:
 - derive the bias-variance trade-off in statistical learning theory; 
 - explore the resulting formula using ```sklearn```'s SVC with RBF kernels;
 - predict the outcome of the upcoming Presidential Elections using the tree model from HW1!
+
+### Lab 8 (11/04):
+Lab8 folder is now up! ***Disclaimer***: you will not be able to run the notebook on your local machine this time as it depends on functions you will write in Homework2 (hidden on my computer in a different folder). I will upload these files after the due date. Today, we will talk about multiclass classification; in particular,
+- combinations of binary classifiers in a multiclass setting (*one-vs-one, one-vs-all*);
+- discuss evluation metrics for multiclass models;
+- extend the ROC space to handle these scenarios.
