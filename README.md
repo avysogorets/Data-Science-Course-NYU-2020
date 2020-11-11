@@ -44,3 +44,8 @@ Lab8 folder is now up! ***Disclaimer***: you will not be able to run the noteboo
 - combinations of binary classifiers in a multiclass setting (*one-vs-one, one-vs-all*);
 - discuss evluation metrics for multiclass models;
 - extend the ROC space to handle these scenarios.
+
+### Lab 9 (11/11):
+Lab9 folder is now available! In it, you will find:
+ - K-Means clustering algorithms: theory, examples, and extensions (K-Means++, Global K-Means);
+ - Agglomerative clustering as the most common hierarchical approach: different linkage functions in theory and practice.
