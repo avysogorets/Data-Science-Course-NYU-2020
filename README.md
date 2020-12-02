@@ -49,3 +49,9 @@ Lab8 folder is now up! ***Disclaimer***: you will not be able to run the noteboo
 Lab9 folder is now available! In it, you will find:
  - K-Means clustering algorithms: theory, examples, and extensions (K-Means++, Global K-Means);
  - Agglomerative clustering as the most common hierarchical approach: different linkage functions in theory and practice.
+ 
+### Lab 10 & 11 (11/18-11/25):
+These two labs focus on text classification. In particular:
+ - Naive Bayes: probabilistic formulation, examples (Gaussian, Bernoulli, Multinomial);
+ - full text classification pipeline using ```nltk``` library and Naive Bayes models from scikit-learn.
+To execute this notebook, you will need to install ```nltk``` (natural language toolkit) and download the following modules: (1) averaged perceptron tagger, (2) punkt, (3) stopwords, (4) wordnet. To do this, type ```nltk.download()``` in your interactive python session, which will open a GUI with all available modules. In addition, you will need to download two data files (```artists-data.csv``` and ```lyrics-data.csv```) from the Resources tab on NYU classes (these files were to big to upload here).
