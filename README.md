@@ -1,4 +1,4 @@
-# Introduction to Data Science, Fall 2020
+## Introduction to Data Science, Fall 2020
 
 Welcome to the repository of Intro to Data Science for PhD Students (DS-GA 3001), Fall'20!  
 We meet on Wednesdays, 11 - 11:50 am in room 650, 60 5th Ave.
