@@ -55,3 +55,6 @@ These two labs focus on text classification. In particular:
  - Naive Bayes: probabilistic formulation, examples (Gaussian, Bernoulli, Multinomial);
  - full text classification pipeline using ```nltk``` library and Naive Bayes models from scikit-learn.
 To execute this notebook, you will need to install ```nltk``` (natural language toolkit) and download the following modules: (1) averaged perceptron tagger, (2) punkt, (3) stopwords, (4) wordnet. To do this, type ```nltk.download()``` in your interactive python session, which will open a GUI with all available modules. In addition, you will need to download two data files (```artists-data.csv``` and ```lyrics-data.csv```) from the Resources tab on NYU classes (these files were to big to upload here).
+
+### Lab 12 (12/02):
+The last lab will be dedicated to studying Restricted Boltzmann Machines as Graphical Models, their assumptions, training, and inference. We will review aspects of Markov chains necessary for the discussion about Gibbs sampling. Finally, we will finish by showcasing a use-case of RBMs as data generators.
